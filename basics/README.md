@@ -9,3 +9,4 @@ This script prints the absolute path of the current working directory.
 8-firstdelete: Deletes the file betty from /tmp/my_first_directory/
 9-firstdirdeletion: Deletes the directory /tmp/my_first_directory
 10-back: Changes the working directory to the previous one
+11-lists: List all files (including hidden) in current, parent, and /boot directories in long format
