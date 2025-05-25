@@ -4,3 +4,4 @@ This script prints the absolute path of the current working directory.
 3-listfiles: Displays current directory contents in long format.
 4-listmorefiles: Lists all files (including hidden ones) in long format.
 5-listfilesdigitonly: List all files (incl. hidden) in long format with numeric user/group IDs
+6-firstdirectory: Creates a directory /tmp/my_first_directory
