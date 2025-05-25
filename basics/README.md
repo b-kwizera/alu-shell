@@ -7,3 +7,4 @@ This script prints the absolute path of the current working directory.
 6-firstdirectory: Creates a directory /tmp/my_first_directory
 7-movethatfile: Moves the file betty to /tmp/my_first_directory/
 8-firstdelete: Deletes the file betty from /tmp/my_first_directory/
+9-firstdirdeletion: Deletes the directory /tmp/my_first_directory
