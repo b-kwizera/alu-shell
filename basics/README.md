@@ -5,3 +5,4 @@ This script prints the absolute path of the current working directory.
 4-listmorefiles: Lists all files (including hidden ones) in long format.
 5-listfilesdigitonly: List all files (incl. hidden) in long format with numeric user/group IDs
 6-firstdirectory: Creates a directory /tmp/my_first_directory
+7-movethatfile: Moves the file betty to /tmp/my_first_directory/
