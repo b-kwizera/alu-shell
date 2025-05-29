@@ -14,3 +14,4 @@
 13-print_float - Prints the value of $NUM with 2 decimal places
 14-decimal_to_hexadecimal - Converts $DECIMAL from base 10 to base 16
 15-rot13 - Encode/decode text with rot13 from stdin
+16-odd - Prints every other line from input, starting with first
