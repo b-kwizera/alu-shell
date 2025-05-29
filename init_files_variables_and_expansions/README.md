@@ -15,3 +15,4 @@
 14-decimal_to_hexadecimal - Converts $DECIMAL from base 10 to base 16
 15-rot13 - Encode/decode text with rot13 from stdin
 16-odd - Prints every other line from input, starting with first
+17-water_and_stir: sums numbers stored in WATER and STIR (custom bases) and prints result in base bestchol
