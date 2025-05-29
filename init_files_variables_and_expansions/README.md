@@ -11,3 +11,4 @@
 10-love_exponent_breath - Displays the result of BREATH raised to the power LOVE using environment variables.
 11-binary_to_decimal - Converts the value of BINARY (base 2) to base 10 and prints the result.
 12-combinations - Prints all 2-letter lowercase combinations except 'oo'
+13-print_float - Prints the value of $NUM with 2 decimal places
