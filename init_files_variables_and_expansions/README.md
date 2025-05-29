@@ -10,3 +10,4 @@
 9-divide_and_rule: Prints the result of POWER divided by DIVIDE using environment variables
 10-love_exponent_breath - Displays the result of BREATH raised to the power LOVE using environment variables.
 11-binary_to_decimal - Converts the value of BINARY (base 2) to base 10 and prints the result.
+12-combinations - Prints all 2-letter lowercase combinations except 'oo'
