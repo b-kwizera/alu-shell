@@ -14,3 +14,4 @@ This script prints "Hello, World" followed by a new line to the standard output.
 7-clock: displays hours from 0 to 12 and minutes from 1 to 59 using nested while loops
 8-for_ls: lists current directory files without hidden, showing part after first dash using for loop
 9-to_file_or_not_to_file: checks if school file exists, if empty, and if it's a regular file
+10-fizzbuzz: prints numbers 1 to 100, printing FizzBuzz for multiples of 15, Fizz for multiples of 3, Buzz for multiples of 5
