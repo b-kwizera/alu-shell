@@ -19,3 +19,4 @@ This script prints "Hello, World" followed by a new line to the standard output.
 12-tell_the_story_of_passwd: Displays a story for each user in /etc/passwd using while loop and IFS
 13-lets_parse_apache_logs: Displays IP and HTTP status code from Apache logs using awk
 14-dig_the-data: Groups visitors by IP and HTTP code, counts and sorts them using awk
+1-for_best_school: Prints 'Best School' 10 times using a for loop
