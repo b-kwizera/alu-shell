@@ -10,3 +10,4 @@ This script prints "Hello, World" followed by a new line to the standard output.
 3-until_best_school: prints 'Best School' 10 times using until loop
 4-if_9_say_hi: prints 'Best School' 10 times; on 9th prints 'Best School' and 'Hi'
 5-4_bad_luck_8_is_your_chance: loops 1 to 10, prints 'bad luck' on 4th, 'good luck' on 8th, else 'Best School'
+6-superstitious_numbers: prints numbers 1-20 with special bad luck messages on 4, 9, 17 using case in a while loop
