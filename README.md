@@ -16,3 +16,4 @@ This script prints "Hello, World" followed by a new line to the standard output.
 9-to_file_or_not_to_file: checks if school file exists, if empty, and if it's a regular file
 10-fizzbuzz: prints numbers 1 to 100, printing FizzBuzz for multiples of 15, Fizz for multiples of 3, Buzz for multiples of 5
 11-read_and_cut: Displays username, UID, and home directory path from /etc/passwd using a while loop
+12-tell_the_story_of_passwd: Displays a story for each user in /etc/passwd using while loop and IFS
