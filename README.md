@@ -8,3 +8,4 @@ This script prints "Hello, World" followed by a new line to the standard output.
 6-third_line: Displays the third line of the file iacta using head and tail
 2-while_best_school: prints 'Best School' 10 times using a while loop
 3-until_best_school: prints 'Best School' 10 times using until loop
+4-if_9_say_hi: prints 'Best School' 10 times; on 9th prints 'Best School' and 'Hi'
