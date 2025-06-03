@@ -7,3 +7,4 @@ This script prints "Hello, World" followed by a new line to the standard output.
 5-firstlines: Displays the first 10 lines of /etc/passwd
 6-third_line: Displays the third line of the file iacta using head and tail
 2-while_best_school: prints 'Best School' 10 times using a while loop
+3-until_best_school: prints 'Best School' 10 times using until loop
