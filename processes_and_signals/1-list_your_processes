@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # This script lists all running processes with their user and command
 
-ps -eo user,comm
+ps -eo user,pid,%cpu,%mem,vsz,rss,tty,stat,start,time,cmd --forest
