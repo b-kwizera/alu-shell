@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # This script lists all running processes with their user and command
 
-ps -eo user,pid,%cpu,%mem,vsz,rss,tty,stat,start,time,cmd --forest
+ps -eo user,lstart,cmd --sort=start_time | awk 'NR==1 {print "USER STARTED CMD"} NR>1 {printf "%s %s %s %s %s %s %s\n", $1, $2, $3, $4, $5, $6, substr($0, index($0,$8))}'
